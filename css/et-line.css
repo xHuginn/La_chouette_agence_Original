@@ -1,3 +1,6 @@
+/* 112 
+        Speak : none */
+
 @font-face {
     font-family: et-line;
     src: url(../fonts/et-line.eot);
@@ -107,7 +110,6 @@
 .et-icon-wallet,
 .et-icon-wine {
     font-family: et-line;
-    /* Erreur ? */
     speak: none;
     font-style: normal;
     font-weight: 400;

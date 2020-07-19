@@ -6,6 +6,14 @@
 
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
+/* 4377  progid:DXImageTransform.Microsoft.gradient(enabled=false) }*/
+
+/* 5127 media queries */
+
+/* + 188 avertissements */
+
+
+
 html {
     font-family: sans-serif;
     -webkit-text-size-adjust: 100%;
@@ -7682,9 +7690,6 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-
-
-    /*  Erreurs ?? */
     background-color: #000\9;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
